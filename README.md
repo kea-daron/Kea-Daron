@@ -10,7 +10,6 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Flinke823%2Fart%2FGojo-4K-HD-iPhone-Wallpaper-1020136330&psig=AOvVaw0Ifhwm0Oh8JyiY_bXoxOVQ&ust=1735270389022000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjIyZfAxIoDFQAAAAAdAAAAABAE"  />
 
 ###
 
