@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is KEA Daron</h2>
+<h2 align="left">Hi 👋! I'm Ronn</h2>
 
 ###
 
